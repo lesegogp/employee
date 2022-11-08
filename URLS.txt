@@ -1,0 +1,7 @@
+1 POSTMANT URLS
+http://localhost:5000/api/v1/employee (getAllEmployees)
+http://localhost:5000/api/v1/employee/employeeApi/id/(delete)
+http://localhost:5000/api/v1/employee/employeeApi(put)
+http://localhost:5000/api/v1/employee/employeeApi(post)
+
+2https://github.com/lesegogp/employee.git
